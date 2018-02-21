@@ -1,9 +1,15 @@
-# TwitterAppTask1
+# TwitterApp Clone using React Native
 This app is a clone of few of those screens of Twitter Android application and it is created using react-native (CRNA). One of the Component collection under react-native i.e. native base is used in this front-end application. This app also tells about the basic use of react-navigation (StackNavigator, TabNavigator and DrawerNavigator).   
+## Run App in your Machine (or) Android Device.
 
-## Installing App in your machine.
+### Direct Installation on Android Device.
 
-### Pre-requisite:
+ #### APK: https://drive.google.com/file/d/1rGqtF7bh_OYUxyhHRGXwFX6vKIttZx1O/
+ 
+ (OR)
+ 
+### Installing App in your machine (To install and run the app on both Android and IOS device)
+#### Pre-requisite:
 Node.js (prefer "npm":"4.6.1", node:"v8.9.1"), react(prefer "react": "16.0.0"), react-native (prefer "react-native": "0.50.3"), Android Emulator(with Expo app installed in mobile device or Expo XDE installed in Desktop machine) or Android device (with Expo App installed in the device) or IOS Simulator(only available in Mac with expo app installed in it) or IOS device(with Expo App installed in the device). (If you are not familiar with react-native refer https://facebook.github.io/react-native/docs/getting-started.html).
 
 ### Steps to install native-base and react-navigation:
